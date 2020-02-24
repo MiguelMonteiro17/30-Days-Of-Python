@@ -1,0 +1,16 @@
+print(3+4)
+print(3-4)
+
+print('Miguel')
+print('Monteiro')
+print('Portugal')
+print('I am enjoying 30 days of python')
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 -4j))
+print(type(['Miguel','Python','Portugal']))
+print(type('Miguel'))
+print(type('Monteiro'))
+print(type('Portugal'))
