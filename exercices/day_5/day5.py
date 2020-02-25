@@ -58,3 +58,9 @@ print('Min age: ',minRange)
 print('Min age: ',maxRange)
 print('Min age minus average: %.2f' %abs(minRange-average))
 print('Max age minus average is %.2f ' %abs(maxRange-average))
+countries = ['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']
+china,russia,usa,*rest = countries
+print(china)
+print(russia)
+print(usa)
+print(rest)
