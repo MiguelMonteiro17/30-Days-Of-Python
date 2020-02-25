@@ -1,23 +1,5 @@
-# Declaring the variable at the top first
-
-a = 3 # a is a variable name and 3 is an integer data type
-b = 2 # b is a variable name and 3 is an integer data type
-
-# Arithmetic operations and assigning the result to a variable
-total = a + b
-diff = a - b
-product = a * b
-division = a / b
-remainder = a % b
-floor_division = a // b
-exponential = a ** b
-
-# I should have used sum instead of total but sum is a built-in function try to avoid overriding builtin functions
-print(total) # if you don't label your print with some string, you never know from where is  the result is coming
-print('a + b = ', total)
-print('a - b = ', diff)
-print('a * b = ', product)
-print('a / b = ', division)
-print('a % b = ', remainder)
-print('a // b = ', floor_division)
-print('a ** b = ', exponential)
+print(1,1,1,1,1)
+print(2,1,2,4,8)
+print(3,1,3,9,27)
+print(4,1,4,16,64)
+print(5,1,5,25,125)
